@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/big-bg.png</file>
+        <file>img/0.png</file>
+        <file>img/logo.jpg</file>
+        <file>img/start1.png</file>
+        <file>img/help1.png</file>
+        <file>img/quit1.png</file>
+        <file>img/set1.png</file>
+        <file>img/gamebg.jpg</file>
+        <file>img/return.png</file>
+        <file>img/common.png</file>
+        <file>img/easy.png</file>
+        <file>img/hard.png</file>
+    </qresource>
+    <qresource prefix="/fishes"/>
+</RCC>
